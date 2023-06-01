@@ -56,3 +56,5 @@ SWR
 Dynamic Routes
 
 - `getStaticPaths()`와 `getStaticProps()`함수를 통해 동적 라우팅을 생성할 수 있다. 먼저, 파일명을 생성 할 때 `[]`을 통해 동적 페이지임을 명시한다. 그리고 `getStaticPaths()`를 통해 동적 페이지들을 반환하고 `getStaticProps()`을 통해 해당 데이터를 사용할 컴포넌트에게 전달해 주면 된다.
+
+[Next.js Doc](https://nextjs.org/learn/foundations/about-nextjs)
